@@ -2,9 +2,9 @@
 - I am a computer science and math major at NYU
 - Interested in:
     * front and back-end development  
+    * web design  
     * statistical, mathematical, and numerical analysis/modeling, particularly in bioinformatics and finance
     * music! 🎹
-    * web design
     * learning new things
 
 <!---
