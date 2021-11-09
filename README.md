@@ -6,6 +6,7 @@
     * statistical, mathematical, and numerical analysis/modeling, particularly in bioinformatics and finance
     * music! 🎹
     * learning new things
+Not many interesting public repos, can't wait to share stuff when I can!
 
 <!---
 mam1864/mam1864 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
