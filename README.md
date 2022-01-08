@@ -3,11 +3,12 @@
 - Interested in:
     * front and back-end development  
     * web design  
-    * statistical, mathematical, and numerical analysis/modeling, particularly in bioinformatics and finance
-    * music! 🎹
+    * mathematical and statistical modeling/analysis
+    * bioinformatics, finance, signal processing  
+    * music! 🎹  
     * learning new things  
   
-Not many interesting public repos, can't wait to share stuff when I can!
+Check out [ArisLIMS](https://github.com/orgs/ColumbiaCPMG/repositories), an open-source LIMS I developed for Columbia's Center for Precision Medicine and Genomics.
 
 <!---
 mam1864/mam1864 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
