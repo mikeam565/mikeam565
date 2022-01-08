@@ -6,9 +6,10 @@
     * mathematical and statistical modeling/analysis
     * bioinformatics, finance, signal processing  
     * music! 🎹  
-    * learning new things  
+    * always learning new technologies and techniques   
 - I work in Javascript, Python, Java, HTML + CSS, and C
-  
+- a fun fact about me: I won the John Lennon Songwriting Competition in the genre of Country in 2021
+
 Check out [ArisLIMS](https://github.com/orgs/ColumbiaCPMG/repositories), an open-source LIMS I developed for Columbia's Center for Precision Medicine and Genomics.
 
 <!---
