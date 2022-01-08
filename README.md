@@ -7,6 +7,7 @@
     * bioinformatics, finance, signal processing  
     * music! 🎹  
     * learning new things  
+- I work in Javascript, Python, Java, HTML + CSS, and C
   
 Check out [ArisLIMS](https://github.com/orgs/ColumbiaCPMG/repositories), an open-source LIMS I developed for Columbia's Center for Precision Medicine and Genomics.
 
