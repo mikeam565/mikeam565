@@ -10,7 +10,7 @@
 - I work in Javascript, Python, Java, HTML + CSS, and C
 - a fun fact about me: I won the John Lennon Songwriting Competition in the genre of Country in 2021
 
-Check out [ArisLIMS](https://github.com/orgs/ColumbiaCPMG/repositories), an open-source LIMS I developed for the Gharavi Lab at Columbia's Center for Precision Medicine and Genomics.
+Check out [ArisLIMS](https://github.com/ColumbiaCPMG/arisLIMS), an open-source LIMS I developed for the Gharavi Lab at Columbia's Center for Precision Medicine and Genomics.
 
 <!---
 mam1864/mam1864 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
