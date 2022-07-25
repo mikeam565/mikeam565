@@ -1,14 +1,5 @@
-- My name is Michael Mironidis
-- I am a computer science and math major at NYU
-- Interested in:
-    * front and back-end development  
-    * web design  
-    * mathematical and statistical modeling/analysis
-    * bioinformatics, finance, signal processing  
-    * music! 🎹  
-    * always learning new technologies and techniques   
-- I work in Javascript, Python, Java, HTML + CSS, and C
-- a fun fact about me: I won the John Lennon Songwriting Competition in the genre of Country in 2021
+Michael Mironidis | TDP Software Engineer @ AT&T  
+CS + Math @ NYU '22
 
 Check out [ArisLIMS](https://github.com/ColumbiaCPMG/arisLIMS), an open-source LIMS I developed for the Gharavi Lab at Columbia's Center for Precision Medicine and Genomics.
 
